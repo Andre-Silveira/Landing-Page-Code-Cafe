@@ -1,6 +1,12 @@
+html{
+    font-size: 62.5%;
+}
+
+
 body{
     max-width: 1440px;
     margin: 0 auto;
+    font-size: 1.6rem;
 }
 
 .cabecalho {
@@ -13,10 +19,6 @@ body{
     width: 85px;
     height: 85px;
     display: inline-block;
-}
-
-.cabecalho .logo{
-    font-size: 0;
 }
 
 .cabecalho nav{
